@@ -43,6 +43,28 @@ a:hover {
   color: #555;
 }
 
+#logo {
+  line-height: 36px;
+  font-size: 27px;
+  color: #660000 !important;
+}
+
+#archive {
+  display: block;
+  text-align: center;
+}
+
+#archive-body {
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+
+#archive-banner {
+  font-size:30px;
+  margin-bottom: 25px;
+}
+
 /*****************************************************************************/
 /*
 /* Home
