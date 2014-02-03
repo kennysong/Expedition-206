@@ -65,6 +65,10 @@ a:hover {
   margin-bottom: 25px;
 }
 
+#post-info {
+  margin-top: 25px;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -169,8 +173,9 @@ a:hover {
 
 .post h2 {
   margin-top: 1.25em;
-  margin-left: -0.5em;
+  /*margin-left: -0.5em;*/
   margin-bottom: 1.25em;
+  font-size: 1.65em;
 }
 
 .post a,

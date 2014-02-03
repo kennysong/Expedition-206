@@ -17,11 +17,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 ##The List
 
-###Eurafrasia
-_Eurafrasia is a continent in the three-continent system and includes Africa, Asia and Europe._
-
-####Africa
-_Africa is a continent in the systems with 5 or more continents, consisting of 55 countries (including 1 disputed)._
+###Africa
 
 * Algeria
 * Angola
@@ -75,12 +71,11 @@ _Africa is a continent in the systems with 5 or more continents, consisting of 5
 * Togo
 * Tunisia
 * Uganda
-* Western Sahara *DISPUTED*
+* Western Sahara
 * Zambia
 * Zimbabwe
 
-####Asia
-_Asia is a continent in the 5 continent systems (but includes Europe in one of them) and those with 6 or more continents. The 49 countries within it are as follows:_
+###Asia
 
 * Afghanistan
 * Armenia
@@ -127,13 +122,12 @@ _Asia is a continent in the 5 continent systems (but includes Europe in one of t
 * Tibet
 * Turkey
 * Turkmenistan
-* United Arab Emirates
+* [United Arab Emirates](/posts/2014/02/03/United-Arab-Emirates.html)
 * Uzbekistan
 * Vietnam
 * Yemen
 
-####Europe
-_Europe is a continent in one of the 6 continent systems and the 7 continent system. In other systems it is part of Asia, Eurasia or Eurafrasia. 47 countries are listed_
+###Europe
 
 * Albania 
 * Andorra
@@ -183,87 +177,64 @@ _Europe is a continent in one of the 6 continent systems and the 7 continent sys
 * United Kingdom
 * Vatican City
 
-###America
-
-_America is a continent in the 4, 5 and one of the 6 continent systems._
-
-####North America
-_North America is a continent in the 7 continent system, consisting of 3 countries._
+###North America
 
 * United States
 * Mexico
 * Canada
 
-####Central America and the Antilles
-_Central America is a continent in the 6 continent system, consisting of 23 countries._
+###South and Central America and the Antilles
 
 * Antigua and Barbuda
+* Argentina
 * Bahamas
 * Barbados
 * Belize
+* Bolivia
+* Brazil 
 * Cayman Islands
+* Chile
+* Colombia
 * Costa Rica
 * Cuba
 * Dominica
 * Dominican Republic 
+* Ecuador
 * El Salvador
+* French Guiana
 * Grenada
 * Guatemala
+* Guyana
 * Haiti
 * Honduras
 * Jamaica
 * Nicaragua
 * Panama 
+* Paraguay
+* Peru
 * Puerto Rico
 * Saint Kitts and Nevis
 * Saint Lucia
 * Saint Vincent and the Grenadines
+* Suriname
 * Trinidad and Tobago
 * Turks and Caicos
-
-####South America
-_South America is a continent in the seven continent system. In other systems it is part of America. The 13 countries belonging to it are as follows:_
-
-* Argentina
-* Bolivia
-* Brazil 
-* Chile
-* Colombia
-* Ecuador
-* French Guiana
-* Guyana
-* Paraguay
-* Peru
-* Suriname
 * Uruguay
 * Venezuela
 
 ###Oceania
 
-_Several terms are in use to describe the region comprising Australia and the nations of the Pacific Ocean. The term Oceania is usually preferred, and this is the term in use by the United Nations. The term Pacific Islands generally excludes the islands of New Zealand, and the continent of Australia. The indigenous Māori of New Zealand are a Polynesian people._
-
-_Historically the region was called Australasia, although this often meant just Australia, New Zealand and sometimes Papua New Guinea. The term gives special emphasis to Australia and is falling out of favour._
-
-_The countries (14 total) are listed below according to their UN classification:_
-
-####Australasia 
 * Australia
-* New Zealand 
-
-####Melanesia
 * Fiji
-* Papua New Guinea
-* Solomon Islands
-* Vanuatu
-
-####Micronesia
 * Kiribati
 * Marshall Islands
 * Micronesia
 * Nauru
+* New Zealand 
 * Palau
-
-####Polynesia
+* Papua New Guinea
 * Samoa
+* Solomon Islands
 * Tonga
 * Tuvalu
+* Vanuatu
