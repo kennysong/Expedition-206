@@ -107,12 +107,12 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Myanmar 
 * Nepal
 * North Korea
-* Oman
+* [Oman](/posts/2014/02/06/Oman.html)
 * Pakistan
 * Philippines
-* Qatar
+* [Qatar](/posts/2014/02/04/Qatar.html)
 * Russia 
-* Saudi Arabia
+* [Saudi Arabia](/posts/2014/02/05/Saudi-Arabia.html)
 * Singapore
 * South Korea
 * Sri Lanka
