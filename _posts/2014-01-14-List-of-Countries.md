@@ -80,7 +80,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Afghanistan
 * Armenia
 * Azerbaijan
-* Bahrain
+* [Bahrain](/posts/2014/02/08/Kuwait.html)
 * Bangladesh
 * Bhutan
 * Brunei
