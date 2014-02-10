@@ -91,7 +91,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * India 
 * Indonesia
 * Iran
-* Iraq
+* [Iraq](/posts/2014/02/10/Iraq.html)
 * Israel
 * Palestine
 * Japan 
