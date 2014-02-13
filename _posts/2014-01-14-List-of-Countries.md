@@ -90,12 +90,12 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * East Timor 
 * India 
 * Indonesia
-* Iran
+* [Iran](/posts/2014/02/13/Iran.html)
 * [Iraq](/posts/2014/02/10/Iraq.html)
-* Israel
+* [Israel](/posts/2014/02/12/Israel.html)
 * Palestine
 * Japan 
-* Jordan 
+* [Jordan](/posts/2014/02/11/Jordan.html) 
 * Kazakhstan
 * [Kuwait](/posts/2014/02/08/Kuwait.html)
 * Kyrgyzstan
