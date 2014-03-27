@@ -78,8 +78,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 ###Asia
 
 * Afghanistan
-* Armenia
-* Azerbaijan
+* [Armenia](/posts/2014/03/25/Armenia.html)
+* [Azerbaijan](/posts/2014/03/26/Azerbaijan.html)
 * [Bahrain](/posts/2014/02/08/Kuwait.html)
 * Bangladesh
 * Bhutan
@@ -143,7 +143,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Estonia 
 * Finland 
 * France
-* Georgia 
+* [Georgia](/posts/2014/03/27/Georgia.html) 
 * Germany 
 * Greece 
 * Hungary 
