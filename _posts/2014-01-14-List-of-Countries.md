@@ -77,7 +77,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 ###Asia
 
-* Afghanistan
+* [Afghanistan](/posts/2014/03/29/Afghanistan.html)
 * [Armenia](/posts/2014/03/25/Armenia.html)
 * [Azerbaijan](/posts/2014/03/26/Azerbaijan.html)
 * [Bahrain](/posts/2014/02/08/Kuwait.html)
@@ -121,7 +121,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Thailand 
 * Tibet
 * [Turkey](/posts/2014/03/23/Turkey.html)
-* Turkmenistan
+* [Turkmenistan](/posts/2014/03/28/Turkmenistan.html)
 * [United Arab Emirates](/posts/2014/02/03/United-Arab-Emirates.html)
 * Uzbekistan
 * Vietnam
