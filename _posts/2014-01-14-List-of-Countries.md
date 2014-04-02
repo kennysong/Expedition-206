@@ -117,7 +117,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * South Korea
 * Sri Lanka
 * [Syria](/posts/2014/03/24/Syria.html)
-* Tajikistan
+* [Tajikistan](/posts/2014/04/02/Tajikistan.html)
 * Thailand 
 * Tibet
 * [Turkey](/posts/2014/03/23/Turkey.html)
