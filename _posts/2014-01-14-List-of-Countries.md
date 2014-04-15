@@ -81,8 +81,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Armenia](/posts/2014/03/25/Armenia.html)
 * [Azerbaijan](/posts/2014/03/26/Azerbaijan.html)
 * [Bahrain](/posts/2014/02/08/Kuwait.html)
-* Bangladesh
-* Bhutan
+* [Bangladesh](/posts/2014/04/07/Bangladesh.html)
+* [Bhutan](/posts/2014/04/06/Bhutan.html)
 * Brunei
 * Cambodia 
 * China, People's Republic of
