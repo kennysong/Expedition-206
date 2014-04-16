@@ -99,12 +99,12 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Kazakhstan](/posts/2014/04/14/Kazakhstan.html) 
 * [Kuwait](/posts/2014/02/08/Kuwait.html)
 * Kyrgyzstan
-* Laos
+* [Laos](/posts/2014/04/09/Laos.html)
 * Lebanon 
 * Malaysia
 * Maldives
 * Mongolia
-* Myanmar 
+* [Myanmar](/posts/2014/04/08/Myanmar.html)
 * [Nepal](/posts/2014/04/01/Nepal.html)
 * North Korea
 * [Oman](/posts/2014/02/06/Oman.html)
