@@ -101,7 +101,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Kyrgyzstan
 * [Laos](/posts/2014/04/09/Laos.html)
 * Lebanon 
-* Malaysia
+* [Malaysia](/posts/2014/04/13/Malaysia.html)
 * Maldives
 * Mongolia
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
@@ -124,7 +124,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Turkmenistan](/posts/2014/03/28/Turkmenistan.html)
 * [United Arab Emirates](/posts/2014/02/03/United-Arab-Emirates.html)
 * [Uzbekistan](/posts/2014/04/05/Uzbekistan.html)
-* Vietnam
+* [Vietnam](/posts/2014/04/12/Vietnam.html)
 * [Yemen](/posts/2014/02/07/Yemen.html)
 
 ###Europe
