@@ -1,8 +1,9 @@
-<div id="archive-body">
-<h1 id="archive-banner">ARCHIVE</h1>
-{% for post in site.posts %}
-	<span style="display:inline;font-size:13px;" class="post-date">{{ post.date | date_to_string }} &sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot; </span>
-    <a style="display:inline;" class="post-title" href="{{ post.url }}">{{ post.title }}</a>
-    <br/>
-{% endfor %}
+<div class="content" id="home">
+	<h1 id="archive-banner" style="margin-top:50px;">ARCHIVE</h1>
+	{% for post in site.posts %}
+		<span style="display:inline;font-size:13px;" class="post-date">{{ post.date | date_to_string }} &sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot;&sdot; </span>
+	    <a style="display:inline;" class="post-title" href="{{ post.url }}">{{ post.title }}</a>
+	    <br/>
+	{% endfor %}
+	<div style="margin-bottom:50px"></div>
 </div>
