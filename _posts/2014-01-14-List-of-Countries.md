@@ -102,14 +102,14 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Laos](/posts/2014/04/09/Laos.html)
 * Lebanon 
 * [Malaysia](/posts/2014/04/13/Malaysia.html)
-* Maldives
+* [Maldives](/posts/2014/04/19/Maldives.html)
 * Mongolia
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
 * [Nepal](/posts/2014/04/01/Nepal.html)
 * North Korea
 * [Oman](/posts/2014/02/06/Oman.html)
 * [Pakistan](/posts/2014/03/30/Pakistan.html)
-* Philippines
+* [Philippines](/posts/2014/04/18/Philippines.html)
 * [Qatar](/posts/2014/02/04/Qatar.html)
 * Russia 
 * [Saudi Arabia](/posts/2014/02/05/Saudi-Arabia.html)
