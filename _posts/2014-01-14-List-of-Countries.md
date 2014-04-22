@@ -98,7 +98,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Jordan](/posts/2014/02/11/Jordan.html) 
 * [Kazakhstan](/posts/2014/04/14/Kazakhstan.html) 
 * [Kuwait](/posts/2014/02/08/Kuwait.html)
-* Kyrgyzstan
+* [Kyrgyzstan](/posts/2014/04/03/Kyrgyzstan.html)
 * [Laos](/posts/2014/04/09/Laos.html)
 * Lebanon 
 * [Malaysia](/posts/2014/04/13/Malaysia.html)
