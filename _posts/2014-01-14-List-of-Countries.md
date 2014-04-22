@@ -8,7 +8,7 @@ categories: posts
 
 ##Notes
 
-The below list of countries was compiled from this [Wikipedia page](http://simple.wikipedia.org/wiki/List_of_countries_by_continents). I will mark off the ones I've already done as I go through them. It's interesting to note that there's only 204 countries on the list -- I haven't yet figured out the cause of this discrepancy with [this other list](http://en.wikipedia.org/wiki/List_of_sovereign_states).
+The below list of countries was compiled from this [Wikipedia page](http://simple.wikipedia.org/wiki/List_of_countries_by_continents). I will mark off the ones I've already done as I go through them. It's interesting to note that there's only 203 countries on the list -- I haven't yet figured out the cause of this discrepancy with [this other list](http://en.wikipedia.org/wiki/List_of_sovereign_states).
 
 ##Interesting Fact
 The group consisting of Africa, Asia, and Europe is called Eurafrasia. (Apparently [also called](http://en.wikipedia.org/wiki/Afro-Eurasia) Afro-Eurasia, Afrasia, or Eurafrasia).
@@ -86,8 +86,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Brunei](/posts/2014/04/17/Brunei.html)
 * [Cambodia](/posts/2014/04/11/Cambodia.html)
 * China, People's Republic of
-* Taiwan 
-* East Timor 
+* [East Timor](/posts/2014/04/20/East-Timor.html)
 * [India](/posts/2014/03/31/India.html)
 * [Indonesia](/posts/2014/04/15/Indonesia.html)
 * [Iran](/posts/2014/02/13/Iran.html)
@@ -117,9 +116,9 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * South Korea
 * [Sri Lanka](/posts/2014/04/16/Sri-Lanka.html)
 * [Syria](/posts/2014/03/24/Syria.html)
+* [Taiwan](/posts/2014/04/21/Taiwan.html)
 * [Tajikistan](/posts/2014/04/02/Tajikistan.html)
 * [Thailand](/posts/2014/04/10/Thailand.html) 
-* Tibet
 * [Turkey](/posts/2014/03/23/Turkey.html)
 * [Turkmenistan](/posts/2014/03/28/Turkmenistan.html)
 * [United Arab Emirates](/posts/2014/02/03/United-Arab-Emirates.html)
