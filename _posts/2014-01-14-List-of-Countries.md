@@ -105,7 +105,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Mongolia
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
 * [Nepal](/posts/2014/04/01/Nepal.html)
-* North Korea
+* [North Korea](/posts/2014/04/22/North-Korea.html)
 * [Oman](/posts/2014/02/06/Oman.html)
 * [Pakistan](/posts/2014/03/30/Pakistan.html)
 * [Philippines](/posts/2014/04/18/Philippines.html)
@@ -113,7 +113,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Russia 
 * [Saudi Arabia](/posts/2014/02/05/Saudi-Arabia.html)
 * [Singapore](/posts/2014/04/15/Singapore.html)
-* South Korea
+* [South Korea](/posts/2014/04/23/South-Korea.html)
 * [Sri Lanka](/posts/2014/04/16/Sri-Lanka.html)
 * [Syria](/posts/2014/03/24/Syria.html)
 * [Taiwan](/posts/2014/04/21/Taiwan.html)
