@@ -85,7 +85,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Bhutan](/posts/2014/04/06/Bhutan.html)
 * [Brunei](/posts/2014/04/17/Brunei.html)
 * [Cambodia](/posts/2014/04/11/Cambodia.html)
-* China, People's Republic of
+* [China, People's Republic of](/posts/2014/04/25/China.html)
 * [East Timor](/posts/2014/04/20/East-Timor.html)
 * [India](/posts/2014/03/31/India.html)
 * [Indonesia](/posts/2014/04/15/Indonesia.html)
@@ -102,7 +102,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Lebanon 
 * [Malaysia](/posts/2014/04/13/Malaysia.html)
 * [Maldives](/posts/2014/04/19/Maldives.html)
-* Mongolia
+* [Mongolia](/posts/2014/04/26/Mongolia.html)
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
 * [Nepal](/posts/2014/04/01/Nepal.html)
 * [North Korea](/posts/2014/04/22/North-Korea.html)
