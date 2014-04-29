@@ -231,7 +231,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Nauru
 * New Zealand 
 * Palau
-* Papua New Guinea
+* [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
 * Samoa
 * Solomon Islands
 * Tonga
