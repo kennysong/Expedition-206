@@ -230,7 +230,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Micronesia](/posts/2014/05/03/Micronesia.html)
 * Nauru
 * New Zealand 
-* Palau
+* [Palau](/posts/2014/05/04/Palau.html)
 * [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
 * Samoa
 * [Solomon Islands](/posts/2014/05/01/Solomon-Islands.html)
