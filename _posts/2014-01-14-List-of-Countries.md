@@ -225,10 +225,10 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 * Australia
 * [Fiji](/posts/2014/04/30/Fiji.html)
-* Kiribati
+* [Kiribati](/posts/2014/05/07/Kiribati.html)
 * [Marshall Islands](/posts/2014/05/02/Marshall-Islands.html)
 * [Micronesia](/posts/2014/05/03/Micronesia.html)
-* Nauru
+* [Nauru](/posts/2014/05/06/Nauru.html)
 * [New Zealand](/posts/2014/05/05/New-Zealand.html)
 * [Palau](/posts/2014/05/04/Palau.html)
 * [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
