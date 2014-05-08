@@ -223,7 +223,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 ###Oceania
 
-* Australia
+* [Australia](/posts/2014/05/08/Australia.html)
 * [Fiji](/posts/2014/04/30/Fiji.html)
 * [Kiribati](/posts/2014/05/07/Kiribati.html)
 * [Marshall Islands](/posts/2014/05/02/Marshall-Islands.html)
