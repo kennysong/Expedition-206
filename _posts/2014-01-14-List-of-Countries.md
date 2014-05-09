@@ -234,6 +234,6 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
 * Samoa
 * [Solomon Islands](/posts/2014/05/01/Solomon-Islands.html)
-* Tonga
+* [Tonga](/posts/2014/05/09/Tonga.html)
 * Tuvalu
 * Vanuatu
