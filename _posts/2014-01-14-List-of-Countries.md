@@ -236,4 +236,4 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Solomon Islands](/posts/2014/05/01/Solomon-Islands.html)
 * [Tonga](/posts/2014/05/09/Tonga.html)
 * [Tuvalu](/posts/2014/05/11/Tuvalu.html)
-* Vanuatu
+* [Vanuatu](/posts/2014/05/12/Vanuatu.html)
