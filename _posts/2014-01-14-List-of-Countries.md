@@ -92,7 +92,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Iran](/posts/2014/02/13/Iran.html)
 * [Iraq](/posts/2014/02/10/Iraq.html)
 * [Israel](/posts/2014/02/12/Israel.html)
-* [Palestine](/posts/2014/04/28/Palestine.html))
+* [Palestine](/posts/2014/04/28/Palestine.html)
 * [Japan](/posts/2014-04-24-Japan.html) 
 * [Jordan](/posts/2014/02/11/Jordan.html) 
 * [Kazakhstan](/posts/2014/04/14/Kazakhstan.html) 
