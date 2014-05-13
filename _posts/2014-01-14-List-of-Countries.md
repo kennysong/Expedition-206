@@ -174,7 +174,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Turkey
 * Ukraine 
 * United Kingdom
-* Vatican City
+* [Vatican City](/posts/2014/05/13/Vatican-City.html)
 
 ###North America
 
