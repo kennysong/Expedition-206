@@ -135,7 +135,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Belgium
 * Bosnia and Herzegovina
 * Bulgaria 
-* Croatia 
+* [Croatia](/posts/2014/05/18/Croatia.html) 
 * Cyprus 
 * Czech Republic 
 * Denmark 
