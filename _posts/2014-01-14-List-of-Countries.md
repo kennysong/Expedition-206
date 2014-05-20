@@ -165,7 +165,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Romania 
 * Russia 
 * San Marino
-* Serbia 
+* [Serbia](/posts/2014/05/20/Serbia.html)
 * Slovakia 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
 * Spain 
