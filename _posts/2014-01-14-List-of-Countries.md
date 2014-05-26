@@ -10,6 +10,8 @@ categories: posts
 
 The below list of countries was compiled from this [Wikipedia page](http://simple.wikipedia.org/wiki/List_of_countries_by_continents). I will mark off the ones I've already done as I go through them. It's interesting to note that there's only 203 countries on the list -- I haven't yet figured out the cause of this discrepancy with [this other list](http://en.wikipedia.org/wiki/List_of_sovereign_states).
 
+Note: I added Kosovo to this list. 
+
 ##Interesting Fact
 The group consisting of Africa, Asia, and Europe is called Eurafrasia. (Apparently [also called](http://en.wikipedia.org/wiki/Afro-Eurasia) Afro-Eurasia, Afrasia, or Eurafrasia).
 
@@ -134,7 +136,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Belarus
 * Belgium
 * [Bosnia and Herzegovina](/posts/2014/05/19/Bosnia-and-Herzegovina.html) 
-* Bulgaria 
+* [Bulgaria](/posts/2014/05/26/Bulbaria.html) 
 * [Croatia](/posts/2014/05/18/Croatia.html) 
 * Cyprus 
 * Czech Republic 
