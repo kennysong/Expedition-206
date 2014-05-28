@@ -147,7 +147,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Georgia](/posts/2014/03/27/Georgia.html) 
 * Germany 
 * [Greece](/posts/2014/05/23/Greece.html) 
-* Hungary 
+* [Hungary](/posts/2014/05/28/Hungary.html) 
 * Iceland 
 * Republic of Ireland 
 * [Italy](/posts/2014/05/14/Italy.html) 
