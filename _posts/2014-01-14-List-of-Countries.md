@@ -139,7 +139,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Bulgaria](/posts/2014/05/26/Bulbaria.html) 
 * [Croatia](/posts/2014/05/18/Croatia.html) 
 * Cyprus 
-* Czech Republic 
+* [Czech Republic](/posts/2014/05/30/Czech-Republic.html) 
 * Denmark 
 * Estonia 
 * Finland 
@@ -163,13 +163,13 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Montenegro](/posts/2014/05/21/Montenegro.html) 
 * Netherlands 
 * Norway 
-* Poland 
+* [Poland](/posts/2014/05/31/Poland.html) 
 * Portugal
 * [Romania](/posts/2014/05/27/Romania.html) 
 * Russia 
 * San Marino
 * [Serbia](/posts/2014/05/20/Serbia.html)
-* Slovakia 
+* [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
 * Spain 
 * Sweden 
