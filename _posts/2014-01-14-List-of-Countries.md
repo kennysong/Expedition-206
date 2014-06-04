@@ -141,7 +141,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Cyprus 
 * [Czech Republic](/posts/2014/05/30/Czech-Republic.html) 
 * Denmark 
-* Estonia 
+* [Estonia](/posts/2014/06/03/Estonia.html) 
 * Finland 
 * France
 * [Georgia](/posts/2014/03/27/Georgia.html) 
