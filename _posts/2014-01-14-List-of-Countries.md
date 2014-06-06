@@ -172,7 +172,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
 * Spain 
-* Sweden 
+* [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
 * Turkey
 * Ukraine 
