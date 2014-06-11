@@ -154,15 +154,15 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Kosovo](/posts/2014/05/25/Kosovo.html)
 * [Latvia](/posts/2014/06/02/Latvia.html)
 * Liechtenstein
-* Lithuania 
-* Luxembourg
+* [Lithuania](/posts/2014/06/01/Lithuania.html)
+* [Luxembourg](/posts/2014/06/10/Luxembourg.html)
 * [Macedonia](/posts/2014/05/24/Macedonia.html) 
 * Malta
 * Moldova
 * Monaco
 * [Montenegro](/posts/2014/05/21/Montenegro.html) 
 * Netherlands 
-* Norway 
+* [Norway](/posts/2014/06/06/Norway.html) 
 * [Poland](/posts/2014/05/31/Poland.html) 
 * Portugal
 * [Romania](/posts/2014/05/27/Romania.html) 
@@ -174,7 +174,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Spain 
 * [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
-* Turkey
+* [Turkey](/posts/2014/03/22/Turkey.html)
 * Ukraine 
 * United Kingdom
 * [Vatican City](/posts/2014/05/13/Vatican-City.html)
