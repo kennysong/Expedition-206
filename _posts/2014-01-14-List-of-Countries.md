@@ -134,7 +134,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Andorra
 * [Austria](/posts/2014/05/16/Austria.html) 
 * Belarus
-* Belgium
+* [Belgium](/posts/2014/06/11/Belgium.html) 
 * [Bosnia and Herzegovina](/posts/2014/05/19/Bosnia-and-Herzegovina.html) 
 * [Bulgaria](/posts/2014/05/26/Bulbaria.html) 
 * [Croatia](/posts/2014/05/18/Croatia.html) 
@@ -161,7 +161,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Moldova
 * Monaco
 * [Montenegro](/posts/2014/05/21/Montenegro.html) 
-* Netherlands 
+* [Netherlands](/posts/2014/06/12/Netherlands.html) 
 * [Norway](/posts/2014/06/06/Norway.html) 
 * [Poland](/posts/2014/05/31/Poland.html) 
 * Portugal
