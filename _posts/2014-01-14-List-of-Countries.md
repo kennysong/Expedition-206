@@ -10,7 +10,9 @@ categories: posts
 
 The below list of countries was compiled from this [Wikipedia page](http://simple.wikipedia.org/wiki/List_of_countries_by_continents). I will mark off the ones I've already done as I go through them. It's interesting to note that there's only 203 countries on the list -- I haven't yet figured out the cause of this discrepancy with [this other list](http://en.wikipedia.org/wiki/List_of_sovereign_states).
 
-Note: I added Kosovo to this list. 
+Note: I added Kosovo to this list.
+
+Note 2: In researching the United Kingdom I ran into the distinction between "sovereign state" and ("country" or "nation"). The UK is a sovereign state consisting of four countries, with England as one of them. Sovereign states are generally treated as a singular entity with representation and recognition in the UN. Country and nation are strictly interchangable, but sovereign state and the two are not.
 
 ##Interesting Fact
 The group consisting of Africa, Asia, and Europe is called Eurafrasia. (Apparently [also called](http://en.wikipedia.org/wiki/Afro-Eurasia) Afro-Eurasia, Afrasia, or Eurafrasia).
@@ -176,7 +178,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
 * [Turkey](/posts/2014/03/22/Turkey.html)
 * Ukraine 
-* United Kingdom
+* [United Kingdom](/posts/2014/06/13/United-Kingdom.html)
 * [Vatican City](/posts/2014/05/13/Vatican-City.html)
 
 ###North America
