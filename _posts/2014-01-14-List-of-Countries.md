@@ -151,7 +151,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Greece](/posts/2014/05/23/Greece.html) 
 * [Hungary](/posts/2014/05/28/Hungary.html) 
 * Iceland 
-* Republic of Ireland 
+* [Ireland](/posts/2014/06/14/Ireland.html) 
 * [Italy](/posts/2014/05/14/Italy.html) 
 * [Kosovo](/posts/2014/05/25/Kosovo.html)
 * [Latvia](/posts/2014/06/02/Latvia.html)
@@ -173,7 +173,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Serbia](/posts/2014/05/20/Serbia.html)
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
-* Spain 
+* [Spain](/posts/2014/06/15/Spain.html)
 * [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
 * [Turkey](/posts/2014/03/22/Turkey.html)
