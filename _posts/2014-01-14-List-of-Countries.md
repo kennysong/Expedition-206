@@ -10,9 +10,17 @@ categories: posts
 
 The below list of countries was compiled from this [Wikipedia page](http://simple.wikipedia.org/wiki/List_of_countries_by_continents). I will mark off the ones I've already done as I go through them. It's interesting to note that there's only 203 countries on the list -- I haven't yet figured out the cause of this discrepancy with [this other list](http://en.wikipedia.org/wiki/List_of_sovereign_states).
 
-Note: I added Kosovo to this list.
+**Note**: I added Kosovo to this list.
 
-Note 2: In researching the United Kingdom I ran into the distinction between "sovereign state" and ("country" or "nation"). The UK is a sovereign state consisting of four countries, with England as one of them. Sovereign states are generally treated as a singular entity with representation and recognition in the UN. Country and nation are strictly interchangable, but sovereign state and the two are not.
+**Note 2**: In researching the United Kingdom I ran into the distinction between "sovereign state" and ("country" or "nation"). The UK is a sovereign state consisting of four countries, with England as one of them. Sovereign states are generally treated as a singular entity with representation and recognition in the UN. Country and nation are strictly interchangable, but sovereign state and the two are not.
+
+**Note 3**: Did some more research on the concept of "Sovereign States". Wikipedia compiles a [comprehensive list](http://en.wikipedia.org/wiki/List_of_sovereign_states) ("the other list") of 206 sovereign states. Again, the [original list I used](http://simple.wikipedia.org/wiki/List_of_countries_by_continents) only had 203, which seems to be more conservative. 
+
+Basically, there are 193 member states of the United Nations, and a new state can be admitted based on a recommendation from the Security Council (smaller council within the UN) and a vote by the General Assembly. The UN also admits observer states, which include the Holy See and Palestine. There are also other states, which are mostly states whose sovereignty is disputed. Wikipedia lists 193 member states, 2 observer states, and 11 other states. It's also interesting that most of the 11 other states were not on the original list of 203, which indicate perhaps more than 206 "states" to research. 
+
+I will investigate the discrepancy between these lists in more detail later.
+
+
 
 ##Interesting Fact
 The group consisting of Africa, Asia, and Europe is called Eurafrasia. (Apparently [also called](http://en.wikipedia.org/wiki/Afro-Eurasia) Afro-Eurasia, Afrasia, or Eurafrasia).
@@ -150,7 +158,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Germany](/posts/2014/06/08/Germany.html) 
 * [Greece](/posts/2014/05/23/Greece.html) 
 * [Hungary](/posts/2014/05/28/Hungary.html) 
-* Iceland 
+* [Iceland](/posts/2014/06/17/Iceland.html) 
 * [Ireland](/posts/2014/06/14/Ireland.html) 
 * [Italy](/posts/2014/05/14/Italy.html) 
 * [Kosovo](/posts/2014/05/25/Kosovo.html)
@@ -168,7 +176,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Poland](/posts/2014/05/31/Poland.html) 
 * [Portugal](/posts/2014/06/16/Portugal.html) 
 * [Romania](/posts/2014/05/27/Romania.html) 
-* Russia 
+* [Russia](/posts/2014/04/27/Russia.html) 
 * San Marino
 * [Serbia](/posts/2014/05/20/Serbia.html)
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
