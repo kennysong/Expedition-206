@@ -143,7 +143,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Albania](/posts/2014/05/22/Albania.html) 
 * [Andorra](/posts/2014/06/18/Andorra.html)
 * [Austria](/posts/2014/05/16/Austria.html) 
-* Belarus
+* [Belarus](/posts/2014/06/19/Belarus.html) 
 * [Belgium](/posts/2014/06/11/Belgium.html) 
 * [Bosnia and Herzegovina](/posts/2014/05/19/Bosnia-and-Herzegovina.html) 
 * [Bulgaria](/posts/2014/05/26/Bulbaria.html) 
