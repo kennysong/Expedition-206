@@ -148,7 +148,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Bosnia and Herzegovina](/posts/2014/05/19/Bosnia-and-Herzegovina.html) 
 * [Bulgaria](/posts/2014/05/26/Bulbaria.html) 
 * [Croatia](/posts/2014/05/18/Croatia.html) 
-* Cyprus 
+* [Cyprus](/posts/2014/06/20/Cyrpus.html) 
 * [Czech Republic](/posts/2014/05/30/Czech-Republic.html) 
 * [Denmark](/posts/2014/06/07/Denmark.html) 
 * [Estonia](/posts/2014/06/03/Estonia.html) 
