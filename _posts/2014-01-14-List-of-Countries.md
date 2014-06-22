@@ -163,7 +163,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Italy](/posts/2014/05/14/Italy.html) 
 * [Kosovo](/posts/2014/05/25/Kosovo.html)
 * [Latvia](/posts/2014/06/02/Latvia.html)
-* Liechtenstein
+* [Liechtenstein](/posts/2014/06/21/Liechtenstein.html)
 * [Lithuania](/posts/2014/06/01/Lithuania.html)
 * [Luxembourg](/posts/2014/06/10/Luxembourg.html)
 * [Macedonia](/posts/2014/05/24/Macedonia.html) 
