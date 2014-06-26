@@ -177,7 +177,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Portugal](/posts/2014/06/16/Portugal.html) 
 * [Romania](/posts/2014/05/27/Romania.html) 
 * [Russia](/posts/2014/04/27/Russia.html) 
-* San Marino
+* [San Marino](/posts/2014/06/26/San-Marino.html) 
 * [Serbia](/posts/2014/05/20/Serbia.html)
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
