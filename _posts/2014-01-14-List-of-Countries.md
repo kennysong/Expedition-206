@@ -64,7 +64,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Mali
 * Mauritania
 * Mauritius
-* Morocco 
+* [Morocco](/posts/2014/06/27/Morocco.html)
 * Mozambique
 * Namibia
 * Niger
