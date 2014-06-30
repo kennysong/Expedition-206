@@ -31,7 +31,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 ###Africa
 
-* Algeria
+* [Algeria](/posts/2014/06/28/Algeria.html)
 * Angola
 * Benin
 * Botswana
@@ -58,7 +58,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Kenya
 * Lesotho
 * Liberia
-* Libya
+* [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
 * Malawi
 * Mali
@@ -81,7 +81,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Swaziland
 * Tanzania
 * Togo
-* Tunisia
+* [Tunisia](/posts/2014/06/30/Tunisia.html)
 * Uganda
 * Western Sahara
 * Zambia
