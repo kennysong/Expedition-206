@@ -46,7 +46,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Democratic Republic of the Congo
 * Côte d'Ivoire 
 * Djibouti
-* Egypt 
+* [Egypt](/posts/2014/07/01/Egypt.html))
 * Equatorial Guinea
 * Eritrea
 * Ethiopia 
