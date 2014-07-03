@@ -40,7 +40,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Cameroon 
 * Cape Verde
 * Central African Republic 
-* Chad 
+* [Chad](/posts/2014/07/03/Chad.html))
 * Comoros
 * Republic of the Congo
 * Democratic Republic of the Congo
