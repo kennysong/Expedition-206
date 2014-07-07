@@ -61,13 +61,13 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
 * Malawi
-* Mali
-* Mauritania
+* [Mali](/posts/2014/07/05/Mali.html))
+* [Mauritania](/posts/2014/07/06/Mauritania.html))
 * Mauritius
 * [Morocco](/posts/2014/06/27/Morocco.html)
 * Mozambique
 * Namibia
-* Niger
+* [Niger](/posts/2014/07/04/Niger.html)
 * Nigeria
 * Rwanda
 * São Tomé and Príncipe
@@ -83,7 +83,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Togo
 * [Tunisia](/posts/2014/06/30/Tunisia.html)
 * Uganda
-* Western Sahara
+* [Western Sahara](/posts/2014/07/07/Western-Sahara.html))
 * Zambia
 * Zimbabwe
 
