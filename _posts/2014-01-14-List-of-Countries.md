@@ -71,7 +71,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Nigeria
 * Rwanda
 * São Tomé and Príncipe
-* Senegal
+* [Senegal](/posts/2014/07/08/Senegal.html)
 * Seychelles
 * Sierra Leone
 * Somalia
