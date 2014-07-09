@@ -40,18 +40,18 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Cameroon 
 * Cape Verde
 * Central African Republic 
-* [Chad](/posts/2014/07/03/Chad.html))
+* [Chad](/posts/2014/07/03/Chad.html)
 * Comoros
 * Republic of the Congo
 * Democratic Republic of the Congo
 * Côte d'Ivoire 
 * Djibouti
-* [Egypt](/posts/2014/07/01/Egypt.html))
+* [Egypt](/posts/2014/07/01/Egypt.html)
 * Equatorial Guinea
 * Eritrea
 * Ethiopia 
 * Gabon
-* The Gambia
+* [The Gambia](/posts/2014/07/09/The-Gambia.html)
 * Ghana
 * Guinea
 * Guinea-Bissau
@@ -61,8 +61,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
 * Malawi
-* [Mali](/posts/2014/07/05/Mali.html))
-* [Mauritania](/posts/2014/07/06/Mauritania.html))
+* [Mali](/posts/2014/07/05/Mali.html)
+* [Mauritania](/posts/2014/07/06/Mauritania.html)
 * Mauritius
 * [Morocco](/posts/2014/06/27/Morocco.html)
 * Mozambique
@@ -83,7 +83,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Togo
 * [Tunisia](/posts/2014/06/30/Tunisia.html)
 * Uganda
-* [Western Sahara](/posts/2014/07/07/Western-Sahara.html))
+* [Western Sahara](/posts/2014/07/07/Western-Sahara.html)
 * Zambia
 * Zimbabwe
 
@@ -185,7 +185,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
 * [Turkey](/posts/2014/03/22/Turkey.html)
-* [Ukraine](/posts/2014/06/25/Ukraine.html))
+* [Ukraine](/posts/2014/06/25/Ukraine.html)
 * [United Kingdom](/posts/2014/06/13/United-Kingdom.html)
 * [Vatican City](/posts/2014/05/13/Vatican-City.html)
 
