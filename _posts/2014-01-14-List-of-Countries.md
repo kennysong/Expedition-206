@@ -54,7 +54,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [The Gambia](/posts/2014/07/09/The-Gambia.html)
 * Ghana
 * Guinea
-* Guinea-Bissau
+* [Guinea-Bissau](/posts/2014/07/10/Guinea-Bissau.html)
 * Kenya
 * Lesotho
 * Liberia
