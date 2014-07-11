@@ -53,7 +53,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Gabon
 * [The Gambia](/posts/2014/07/09/The-Gambia.html)
 * Ghana
-* Guinea
+* [Guinea](/posts/2014/07/11/Guinea.html)
 * [Guinea-Bissau](/posts/2014/07/10/Guinea-Bissau.html)
 * Kenya
 * Lesotho
