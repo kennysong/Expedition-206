@@ -57,7 +57,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Guinea-Bissau](/posts/2014/07/10/Guinea-Bissau.html)
 * Kenya
 * Lesotho
-* Liberia
+* [Liberia](/posts/2014/07/13/Liberia.html)
 * [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
 * Malawi
@@ -73,7 +73,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * São Tomé and Príncipe
 * [Senegal](/posts/2014/07/08/Senegal.html)
 * Seychelles
-* Sierra Leone
+* [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
 * Somalia
 * South Africa
 * South Sudan
