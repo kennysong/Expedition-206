@@ -76,7 +76,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
 * Somalia
 * South Africa
-* South Sudan
+* [South Sudan](/posts/2014/07/22/South-Sudan.html)
 * [Sudan](/posts/2014/07/02/Sudan.html)
 * Swaziland
 * Tanzania
