@@ -48,7 +48,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Djibouti
 * [Egypt](/posts/2014/07/01/Egypt.html)
 * Equatorial Guinea
-* Eritrea
+* [Eritrea](/posts/2014/07/12/Eritrea.html)
 * [Ethiopia](/posts/2014/07/23/Ethiopia.html)
 * Gabon
 * [The Gambia](/posts/2014/07/09/The-Gambia.html)
