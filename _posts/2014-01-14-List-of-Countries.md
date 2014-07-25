@@ -45,7 +45,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Republic of the Congo
 * Democratic Republic of the Congo
 * [Côte d'Ivoire](/posts/2014/07/13/Côte-d'Ivoire.html)
-* Djibouti
+* [Djibouti](/posts/2014/07/25/Djibouti.html)
 * [Egypt](/posts/2014/07/01/Egypt.html)
 * Equatorial Guinea
 * [Eritrea](/posts/2014/07/12/Eritrea.html)
@@ -74,7 +74,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Senegal](/posts/2014/07/08/Senegal.html)
 * Seychelles
 * [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
-* Somalia
+* [Somalia](/posts/2014/07/26/Somalia.html)
 * South Africa
 * [South Sudan](/posts/2014/07/22/South-Sudan.html)
 * [Sudan](/posts/2014/07/02/Sudan.html)
