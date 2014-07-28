@@ -82,7 +82,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Tanzania
 * [Togo](/posts/2014/07/17/Togo.html))
 * [Tunisia](/posts/2014/06/30/Tunisia.html)
-* Uganda
+* [Uganda](/posts/2014/07/28/Uganda.html)
 * [Western Sahara](/posts/2014/07/07/Western-Sahara.html)
 * Zambia
 * Zimbabwe
