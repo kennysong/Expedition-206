@@ -79,7 +79,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [South Sudan](/posts/2014/07/22/South-Sudan.html)
 * [Sudan](/posts/2014/07/02/Sudan.html)
 * Swaziland
-* Tanzania
+* [Tanzania](/posts/2014/07/29/Tanzania.html)
 * [Togo](/posts/2014/07/17/Togo.html))
 * [Tunisia](/posts/2014/06/30/Tunisia.html)
 * [Uganda](/posts/2014/07/28/Uganda.html)
