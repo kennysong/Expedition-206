@@ -35,8 +35,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Angola
 * [Benin](/posts/2014/07/18/Benin.html)
 * Botswana
-* [Burkina Faso](/posts/2014/07/16/Burkina-Faso.html))
-* Burundi
+* [Burkina Faso](/posts/2014/07/16/Burkina-Faso.html)
+* [Burundi](/posts/2014/07/30/Burundi.html)
 * [Cameroon](/posts/2014/07/20/Cameroon.html)
 * Cape Verde
 * [Central African Republic](/posts/2014/07/21/Central-African-Republic.html)
