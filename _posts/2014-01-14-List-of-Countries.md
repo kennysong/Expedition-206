@@ -69,7 +69,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Namibia
 * [Niger](/posts/2014/07/04/Niger.html)
 * [Nigeria](/posts/2014/07/19/Nigeria.html)
-* Rwanda
+* [Rwanda](/posts/2014/07/31/Rwanda.html)
 * São Tomé and Príncipe
 * [Senegal](/posts/2014/07/08/Senegal.html)
 * Seychelles
