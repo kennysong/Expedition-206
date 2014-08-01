@@ -43,7 +43,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Chad](/posts/2014/07/03/Chad.html)
 * Comoros
 * Republic of the Congo
-* Democratic Republic of the Congo
+* [Democratic Republic of the Congo](/posts/2014/08/01/Democratic-Republic-of-the-Congo.html)
 * [Côte d'Ivoire](/posts/2014/07/13/Côte-d'Ivoire.html)
 * [Djibouti](/posts/2014/07/25/Djibouti.html)
 * [Egypt](/posts/2014/07/01/Egypt.html)
