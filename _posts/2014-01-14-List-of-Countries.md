@@ -42,7 +42,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Central African Republic](/posts/2014/07/21/Central-African-Republic.html)
 * [Chad](/posts/2014/07/03/Chad.html)
 * Comoros
-* Republic of the Congo
+* [Republic of the Congo](/posts/2014/08/02/Congo.html)
 * [Democratic Republic of the Congo](/posts/2014/08/01/Democratic-Republic-of-the-Congo.html)
 * [Côte d'Ivoire](/posts/2014/07/13/Côte-d'Ivoire.html)
 * [Djibouti](/posts/2014/07/25/Djibouti.html)
@@ -50,7 +50,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Equatorial Guinea
 * [Eritrea](/posts/2014/07/12/Eritrea.html)
 * [Ethiopia](/posts/2014/07/23/Ethiopia.html)
-* Gabon
+* [Gabon](/posts/2014/08/03/Gabon.html)
 * [The Gambia](/posts/2014/07/09/The-Gambia.html)
 * [Ghana](/posts/2014/07/15/Ghana.html))
 * [Guinea](/posts/2014/07/11/Guinea.html)
