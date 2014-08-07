@@ -52,15 +52,15 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Ethiopia](/posts/2014/07/23/Ethiopia.html)
 * [Gabon](/posts/2014/08/03/Gabon.html)
 * [The Gambia](/posts/2014/07/09/The-Gambia.html)
-* [Ghana](/posts/2014/07/15/Ghana.html))
+* [Ghana](/posts/2014/07/15/Ghana.html)
 * [Guinea](/posts/2014/07/11/Guinea.html)
 * [Guinea-Bissau](/posts/2014/07/10/Guinea-Bissau.html)
-* [Kenya](/posts/2014/07/27/Kenya.html))
+* [Kenya](/posts/2014/07/27/Kenya.html)
 * Lesotho
 * [Liberia](/posts/2014/07/13/Liberia.html)
 * [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
-* Malawi
+* [Malawi](/posts/2014/08/07/Malawi.html)
 * [Mali](/posts/2014/07/05/Mali.html)
 * [Mauritania](/posts/2014/07/06/Mauritania.html)
 * Mauritius
@@ -80,11 +80,11 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Sudan](/posts/2014/07/02/Sudan.html)
 * Swaziland
 * [Tanzania](/posts/2014/07/29/Tanzania.html)
-* [Togo](/posts/2014/07/17/Togo.html))
+* [Togo](/posts/2014/07/17/Togo.html)
 * [Tunisia](/posts/2014/06/30/Tunisia.html)
 * [Uganda](/posts/2014/07/28/Uganda.html)
 * [Western Sahara](/posts/2014/07/07/Western-Sahara.html)
-* Zambia
+* [Zambia](/posts/2014/08/06/Zambia.html)
 * Zimbabwe
 
 ###Asia
