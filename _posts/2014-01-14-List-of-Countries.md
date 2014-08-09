@@ -3,7 +3,7 @@ layout: post
 title: List of Countries
 cover: world-words.jpg
 date:   2014-01-14 22:00:00
-categories: posts
+categories: postsf
 ---
 
 ##Notes
@@ -65,7 +65,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Mauritania](/posts/2014/07/06/Mauritania.html)
 * Mauritius
 * [Morocco](/posts/2014/06/27/Morocco.html)
-* Mozambique
+* [Mozambique](/posts/2014/08/08/Mozambique.html)
 * Namibia
 * [Niger](/posts/2014/07/04/Niger.html)
 * [Nigeria](/posts/2014/07/19/Nigeria.html)
@@ -85,7 +85,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Uganda](/posts/2014/07/28/Uganda.html)
 * [Western Sahara](/posts/2014/07/07/Western-Sahara.html)
 * [Zambia](/posts/2014/08/06/Zambia.html)
-* Zimbabwe
+* [Zimbabwe](/posts/2014/08/09/Zimbabwe.html)
 
 ###Asia
 
