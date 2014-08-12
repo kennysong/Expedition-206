@@ -66,7 +66,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Mauritius
 * [Morocco](/posts/2014/06/27/Morocco.html)
 * [Mozambique](/posts/2014/08/08/Mozambique.html)
-* Namibia
+* [Namibia](/posts/2014/08/11/Namibia.html)
 * [Niger](/posts/2014/07/04/Niger.html)
 * [Nigeria](/posts/2014/07/19/Nigeria.html)
 * [Rwanda](/posts/2014/07/31/Rwanda.html)
@@ -75,7 +75,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Seychelles
 * [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
 * [Somalia](/posts/2014/07/26/Somalia.html)
-* South Africa
+* [South Africa](/posts/2014/08/12/South-Africa.html)
 * [South Sudan](/posts/2014/07/22/South-Sudan.html)
 * [Sudan](/posts/2014/07/02/Sudan.html)
 * Swaziland
