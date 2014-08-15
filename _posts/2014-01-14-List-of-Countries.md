@@ -3,7 +3,7 @@ layout: post
 title: List of Countries
 cover: world-words.jpg
 date:   2014-01-14 22:00:00
-categories: postsf
+categories: posts
 ---
 
 ##Notes
@@ -56,7 +56,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Guinea](/posts/2014/07/11/Guinea.html)
 * [Guinea-Bissau](/posts/2014/07/10/Guinea-Bissau.html)
 * [Kenya](/posts/2014/07/27/Kenya.html)
-* Lesotho
+* [Lesotho](/posts/2014/08/14/Lesotho.html)
 * [Liberia](/posts/2014/07/13/Liberia.html)
 * [Libya](/posts/2014/06/29/Libya.html)
 * Madagascar
