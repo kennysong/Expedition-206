@@ -59,7 +59,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Lesotho](/posts/2014/08/14/Lesotho.html)
 * [Liberia](/posts/2014/07/13/Liberia.html)
 * [Libya](/posts/2014/06/29/Libya.html)
-* Madagascar
+* [Madagascar](/posts/2014/08/15/Madagascar.html)
 * [Malawi](/posts/2014/08/07/Malawi.html)
 * [Mali](/posts/2014/07/05/Mali.html)
 * [Mauritania](/posts/2014/07/06/Mauritania.html)
