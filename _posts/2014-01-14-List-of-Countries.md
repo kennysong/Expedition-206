@@ -41,7 +41,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Cape Verde](/posts/2014/08/16/Cape-Verde.html)
 * [Central African Republic](/posts/2014/07/21/Central-African-Republic.html)
 * [Chad](/posts/2014/07/03/Chad.html)
-* Comoros
+* [Comoros](/posts/2014/08/17/Comoros.html)
 * [Republic of the Congo](/posts/2014/08/02/Congo.html)
 * [Democratic Republic of the Congo](/posts/2014/08/01/Democratic-Republic-of-the-Congo.html)
 * [Côte d'Ivoire](/posts/2014/07/13/Côte-d'Ivoire.html)
