@@ -47,7 +47,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Côte d'Ivoire](/posts/2014/07/13/Côte-d'Ivoire.html)
 * [Djibouti](/posts/2014/07/25/Djibouti.html)
 * [Egypt](/posts/2014/07/01/Egypt.html)
-* Equatorial Guinea
+* [Equatorial Guinea](/posts/2014/08/04/Equatorial-Guinea.html)
 * [Eritrea](/posts/2014/07/12/Eritrea.html)
 * [Ethiopia](/posts/2014/07/23/Ethiopia.html)
 * [Gabon](/posts/2014/08/03/Gabon.html)
@@ -63,7 +63,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Malawi](/posts/2014/08/07/Malawi.html)
 * [Mali](/posts/2014/07/05/Mali.html)
 * [Mauritania](/posts/2014/07/06/Mauritania.html)
-* Mauritius
+* [Mauritius](/posts/2014/08/18/Mauritius.html)
 * [Morocco](/posts/2014/06/27/Morocco.html)
 * [Mozambique](/posts/2014/08/08/Mozambique.html)
 * [Namibia](/posts/2014/08/11/Namibia.html)
