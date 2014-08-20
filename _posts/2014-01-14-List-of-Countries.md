@@ -72,7 +72,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Rwanda](/posts/2014/07/31/Rwanda.html)
 * [São Tomé and Príncipe](/posts/2014/08/19/São-Tomé-and-Príncipe.html)
 * [Senegal](/posts/2014/07/08/Senegal.html)
-* Seychelles
+* [Seychelles](/posts/2014/08/20/Seychelles.html)
 * [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
 * [Somalia](/posts/2014/07/26/Somalia.html)
 * [South Africa](/posts/2014/08/12/South-Africa.html)
