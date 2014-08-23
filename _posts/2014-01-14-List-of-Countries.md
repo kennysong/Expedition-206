@@ -192,7 +192,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 ###North America
 
 * [United States](/posts/2014/08/21/United-States.html)
-* Mexico
+* [Mexico](/posts/2014/08/23/Mexico.html)
 * [Canada](/posts/2014/08/22/Canada.html)
 
 ###South and Central America and the Antilles
