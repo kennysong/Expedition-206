@@ -201,7 +201,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Argentina
 * Bahamas
 * Barbados
-* Belize
+* [Belize](/posts/2014/08/25/Belize.html)
 * Bolivia
 * Brazil 
 * Cayman Islands
