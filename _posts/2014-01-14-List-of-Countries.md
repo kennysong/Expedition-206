@@ -212,13 +212,13 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Dominica
 * Dominican Republic 
 * Ecuador
-* El Salvador
+* [El Salvador](/posts/2014/08/26/El-Salvador.html)
 * French Guiana
 * Grenada
 * [Guatemala](/posts/2014/08/24/Guatemala.html)
 * Guyana
 * Haiti
-* Honduras
+* [Honduras](/posts/2014/08/27/Honduras.html)
 * Jamaica
 * Nicaragua
 * Panama 
