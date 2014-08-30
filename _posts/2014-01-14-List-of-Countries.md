@@ -221,7 +221,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Honduras](/posts/2014/08/27/Honduras.html)
 * Jamaica
 * [Nicaragua](/posts/2014/08/28/Nicaragua.html)
-* Panama 
+* [Panama](/posts/2014/08/30/Panama.html)
 * Paraguay
 * Peru
 * Puerto Rico
