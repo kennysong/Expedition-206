@@ -232,7 +232,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Trinidad and Tobago
 * Turks and Caicos
 * Uruguay
-* Venezuela
+* [Venezuela](/posts/2014/09/01/Venezuela.html)
 
 ###Oceania
 
