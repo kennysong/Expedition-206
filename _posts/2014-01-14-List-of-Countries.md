@@ -216,7 +216,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * French Guiana
 * Grenada
 * [Guatemala](/posts/2014/08/24/Guatemala.html)
-* Guyana
+* [Guyana](/posts/2014/09/02/Guyana.html))
 * Haiti
 * [Honduras](/posts/2014/08/27/Honduras.html)
 * Jamaica
