@@ -228,7 +228,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Saint Kitts and Nevis
 * Saint Lucia
 * Saint Vincent and the Grenadines
-* Suriname
+* [Suriname](/posts/2014/09/03/Suriname.html)
 * Trinidad and Tobago
 * Turks and Caicos
 * Uruguay
