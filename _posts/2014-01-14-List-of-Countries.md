@@ -213,7 +213,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Dominican Republic 
 * Ecuador
 * [El Salvador](/posts/2014/08/26/El-Salvador.html)
-* French Guiana
+* [French Guiana](/posts/2014/09/04/French-Guiana.html)
 * Grenada
 * [Guatemala](/posts/2014/08/24/Guatemala.html)
 * [Guyana](/posts/2014/09/02/Guyana.html))
