@@ -231,7 +231,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Suriname](/posts/2014/09/03/Suriname.html)
 * Trinidad and Tobago
 * Turks and Caicos
-* Uruguay
+* [Uruguay](/posts/2014/09/06/Uruguay.html)
 * [Venezuela](/posts/2014/09/01/Venezuela.html)
 
 ###Oceania
