@@ -205,8 +205,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * Bolivia
 * Brazil 
 * Cayman Islands
-* Chile
-* Colombia
+* [Chile](/posts/2014/09/09/Chile.html)
+* [Colombia](/posts/2014/09/01/Colombia.html)
 * [Costa Rica](/posts/2014/08/29/Costa-Rica.html)
 * Cuba
 * Dominica
