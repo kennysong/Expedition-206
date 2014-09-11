@@ -223,7 +223,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Nicaragua](/posts/2014/08/28/Nicaragua.html)
 * [Panama](/posts/2014/08/30/Panama.html)
 * [Paraguay](/posts/2014/09/08/Paraguay.html)
-* Peru
+* [Peru](/posts/2014/09/11/Peru.html)
 * Puerto Rico
 * Saint Kitts and Nevis
 * Saint Lucia
