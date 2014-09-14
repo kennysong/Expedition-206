@@ -197,9 +197,9 @@ Also interesting to note what determines a "continent". The term is broadly defi
 
 ###South and Central America and the Antilles
 
-* Antigua and Barbuda
+* [Antigua and Barbuda](/posts/2014/09/14/Antigua-and-Barbuda.html)
 * [Argentina](/posts/2014/09/07/Argentina.html)
-* Bahamas
+* [Bahamas](/posts/2014/09/13/Bahamas.html)
 * Barbados
 * [Belize](/posts/2014/08/25/Belize.html)
 * [Bolivia](/posts/2014/09/10/Bolivia.html)
