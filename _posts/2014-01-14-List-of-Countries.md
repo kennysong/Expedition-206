@@ -200,10 +200,10 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Antigua and Barbuda](/posts/2014/09/14/Antigua-and-Barbuda.html)
 * [Argentina](/posts/2014/09/07/Argentina.html)
 * [Bahamas](/posts/2014/09/13/Bahamas.html)
-* Barbados
+* [Barbados](/posts/2014/09/15/Barbados.html)
 * [Belize](/posts/2014/08/25/Belize.html)
 * [Bolivia](/posts/2014/09/10/Bolivia.html)
-* Brazil 
+* [Brazil](/posts/2014/09/05/Brazil.html)
 * Cayman Islands
 * [Chile](/posts/2014/09/09/Chile.html)
 * [Colombia](/posts/2014/09/01/Colombia.html)
