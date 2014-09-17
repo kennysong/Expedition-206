@@ -208,9 +208,9 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Chile](/posts/2014/09/09/Chile.html)
 * [Colombia](/posts/2014/09/01/Colombia.html)
 * [Costa Rica](/posts/2014/08/29/Costa-Rica.html)
-* Cuba
-* Dominica
-* Dominican Republic 
+* [Cuba](/posts/2014/09/17/Cuba.html)
+* [Dominica](/posts/2014/09/18/Dominica.html)
+* [Dominican Republic](/posts/2014/09/19/Domonican-Republic.html)
 * [Ecuador](/posts/2014/09/12/Ecuador.html)
 * [El Salvador](/posts/2014/08/26/El-Salvador.html)
 * [French Guiana](/posts/2014/09/04/French-Guiana.html)
