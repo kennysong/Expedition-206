@@ -214,18 +214,18 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Ecuador](/posts/2014/09/12/Ecuador.html)
 * [El Salvador](/posts/2014/08/26/El-Salvador.html)
 * [French Guiana](/posts/2014/09/04/French-Guiana.html)
-* Grenada
+* [Grenada](/posts/2014/09/20/Grenada.html)
 * [Guatemala](/posts/2014/08/24/Guatemala.html)
-* [Guyana](/posts/2014/09/02/Guyana.html))
-* Haiti
+* [Guyana](/posts/2014/09/02/Guyana.html)
+* [Haiti](/posts/2014/09/21/Haiti.html)
 * [Honduras](/posts/2014/08/27/Honduras.html)
-* Jamaica
+* [Jamaica](/posts/2014/09/22/Jamaica.html)
 * [Nicaragua](/posts/2014/08/28/Nicaragua.html)
 * [Panama](/posts/2014/08/30/Panama.html)
 * [Paraguay](/posts/2014/09/08/Paraguay.html)
 * [Peru](/posts/2014/09/11/Peru.html)
-* Puerto Rico
-* Saint Kitts and Nevis
+* [Puerto Rico](/posts/2014/09/23/Puerto-Rico.html)
+* [Saint Kitts and Nevis](/posts/2014/09/24/Saint-Kitts-and-Nevis.html)
 * Saint Lucia
 * Saint Vincent and the Grenadines
 * [Suriname](/posts/2014/09/03/Suriname.html)
