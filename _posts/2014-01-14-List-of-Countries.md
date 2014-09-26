@@ -226,8 +226,8 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Peru](/posts/2014/09/11/Peru.html)
 * [Puerto Rico](/posts/2014/09/23/Puerto-Rico.html)
 * [Saint Kitts and Nevis](/posts/2014/09/24/Saint-Kitts-and-Nevis.html)
-* Saint Lucia
-* Saint Vincent and the Grenadines
+* [Saint Lucia](/posts/2014/09/25/Saint-Lucia.html)
+* [Saint Vincent and the Grenadines](/posts/2014/09/26/Saint-Vincent-and-the-Grenadines.html)
 * [Suriname](/posts/2014/09/03/Suriname.html)
 * Trinidad and Tobago
 * Turks and Caicos
