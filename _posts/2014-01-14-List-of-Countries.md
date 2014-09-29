@@ -20,7 +20,7 @@ Basically, there are 193 member states of the United Nations, and a new state ca
 
 I will investigate the discrepancy between these lists in more detail later.
 
-
+**Note 4** As of Sept 28th, 2014, I have finished the existing list of countries. I have decided to continue with a few last disputed states, listed in the "other states" category of the United Nations system. These include: Abkhazia, Cook Islands, Nagorno-Karabakh, Niue, Northern Cyprus, Sahrawi Arab Democratic Republic, Somaliland, South Ossetia, Transnistria. Kosovo and Taiwan are part of this list, but were also previously part of my own list.
 
 ##Interesting Fact
 The group consisting of Africa, Asia, and Europe is called Eurafrasia. (Apparently [also called](http://en.wikipedia.org/wiki/Afro-Eurasia) Afro-Eurasia, Afrasia, or Eurafrasia).
@@ -70,11 +70,13 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Niger](/posts/2014/07/04/Niger.html)
 * [Nigeria](/posts/2014/07/19/Nigeria.html)
 * [Rwanda](/posts/2014/07/31/Rwanda.html)
+* Sahrawi Arab Democratic Republic
 * [São Tomé and Príncipe](/posts/2014/08/19/São-Tomé-and-Príncipe.html)
 * [Senegal](/posts/2014/07/08/Senegal.html)
 * [Seychelles](/posts/2014/08/20/Seychelles.html)
 * [Sierra Leone](/posts/2014/07/12/Sierra-Leone.html)
 * [Somalia](/posts/2014/07/26/Somalia.html)
+* [Somaliland](/posts/2014/09/29/Somaliland.html)
 * [South Africa](/posts/2014/08/12/South-Africa.html)
 * [South Sudan](/posts/2014/07/22/South-Sudan.html)
 * [Sudan](/posts/2014/07/02/Sudan.html)
@@ -116,6 +118,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Maldives](/posts/2014/04/19/Maldives.html)
 * [Mongolia](/posts/2014/04/26/Mongolia.html)
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
+* Nagorno-Karabakh
 * [Nepal](/posts/2014/04/01/Nepal.html)
 * [North Korea](/posts/2014/04/22/North-Korea.html)
 * [Oman](/posts/2014/02/06/Oman.html)
@@ -139,7 +142,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Yemen](/posts/2014/02/07/Yemen.html)
 
 ###Europe
-
+* Abkhazia
 * [Albania](/posts/2014/05/22/Albania.html) 
 * [Andorra](/posts/2014/06/18/Andorra.html)
 * [Austria](/posts/2014/05/16/Austria.html) 
@@ -172,6 +175,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Monaco](/posts/2014/06/24/Monaco.html) 
 * [Montenegro](/posts/2014/05/21/Montenegro.html) 
 * [Netherlands](/posts/2014/06/12/Netherlands.html) 
+* Northern Cyprus
 * [Norway](/posts/2014/06/06/Norway.html) 
 * [Poland](/posts/2014/05/31/Poland.html) 
 * [Portugal](/posts/2014/06/16/Portugal.html) 
@@ -181,9 +185,11 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Serbia](/posts/2014/05/20/Serbia.html)
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
+* South Ossetia 
 * [Spain](/posts/2014/06/15/Spain.html)
 * [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
+* Transnistria
 * [Turkey](/posts/2014/03/22/Turkey.html)
 * [Ukraine](/posts/2014/06/25/Ukraine.html)
 * [United Kingdom](/posts/2014/06/13/United-Kingdom.html)
@@ -229,20 +235,22 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Saint Lucia](/posts/2014/09/25/Saint-Lucia.html)
 * [Saint Vincent and the Grenadines](/posts/2014/09/26/Saint-Vincent-and-the-Grenadines.html)
 * [Suriname](/posts/2014/09/03/Suriname.html)
-* Trinidad and Tobago
-* Turks and Caicos
+* [Trinidad and Tobago](/posts/2014/09/27/Trinidad-and-Tobago.html)
+* [Turks and Caicos](/posts/2014/09/028/Turks-and-Caicos.html)
 * [Uruguay](/posts/2014/09/06/Uruguay.html)
 * [Venezuela](/posts/2014/09/01/Venezuela.html)
 
 ###Oceania
 
 * [Australia](/posts/2014/05/08/Australia.html)
+* Cook Islands
 * [Fiji](/posts/2014/04/30/Fiji.html)
 * [Kiribati](/posts/2014/05/07/Kiribati.html)
 * [Marshall Islands](/posts/2014/05/02/Marshall-Islands.html)
 * [Micronesia](/posts/2014/05/03/Micronesia.html)
 * [Nauru](/posts/2014/05/06/Nauru.html)
 * [New Zealand](/posts/2014/05/05/New-Zealand.html)
+* Niue
 * [Palau](/posts/2014/05/04/Palau.html)
 * [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
 * [Samoa](/posts/2014/05/10/Samoa.html)
