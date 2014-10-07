@@ -70,7 +70,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Niger](/posts/2014/07/04/Niger.html)
 * [Nigeria](/posts/2014/07/19/Nigeria.html)
 * [Rwanda](/posts/2014/07/31/Rwanda.html)
-* Sahrawi Arab Democratic Republic
+* [Sahrawi Arab Democratic Republic](/posts/2014/09/30/Sahrawi-Arab-Democratic-Republic.html)
 * [São Tomé and Príncipe](/posts/2014/08/19/São-Tomé-and-Príncipe.html)
 * [Senegal](/posts/2014/07/08/Senegal.html)
 * [Seychelles](/posts/2014/08/20/Seychelles.html)
@@ -118,7 +118,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Maldives](/posts/2014/04/19/Maldives.html)
 * [Mongolia](/posts/2014/04/26/Mongolia.html)
 * [Myanmar](/posts/2014/04/08/Myanmar.html)
-* Nagorno-Karabakh
+* [Nagorno-Karabakh](/posts/2014/10/01/Nagorno-Karabakh.html)
 * [Nepal](/posts/2014/04/01/Nepal.html)
 * [North Korea](/posts/2014/04/22/North-Korea.html)
 * [Oman](/posts/2014/02/06/Oman.html)
@@ -142,7 +142,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Yemen](/posts/2014/02/07/Yemen.html)
 
 ###Europe
-* Abkhazia
+* [Abkhazia](/posts/2014/10/02/Abkhazia.html) 
 * [Albania](/posts/2014/05/22/Albania.html) 
 * [Andorra](/posts/2014/06/18/Andorra.html)
 * [Austria](/posts/2014/05/16/Austria.html) 
@@ -175,7 +175,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Monaco](/posts/2014/06/24/Monaco.html) 
 * [Montenegro](/posts/2014/05/21/Montenegro.html) 
 * [Netherlands](/posts/2014/06/12/Netherlands.html) 
-* Northern Cyprus
+* [Northern Cyprus](/posts/2014/10/03/Northern-Cyprus.html)
 * [Norway](/posts/2014/06/06/Norway.html) 
 * [Poland](/posts/2014/05/31/Poland.html) 
 * [Portugal](/posts/2014/06/16/Portugal.html) 
@@ -243,7 +243,6 @@ Also interesting to note what determines a "continent". The term is broadly defi
 ###Oceania
 
 * [Australia](/posts/2014/05/08/Australia.html)
-* Cook Islands
 * [Fiji](/posts/2014/04/30/Fiji.html)
 * [Kiribati](/posts/2014/05/07/Kiribati.html)
 * [Marshall Islands](/posts/2014/05/02/Marshall-Islands.html)
