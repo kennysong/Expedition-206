@@ -185,11 +185,11 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Serbia](/posts/2014/05/20/Serbia.html)
 * [Slovakia](/posts/2014/05/29/Slovakia.html) 
 * [Slovenia](/posts/2014/05/17/Slovenia.html)
-* South Ossetia 
+* [South Ossetia](/posts/2014/10/04/South-Ossetia.html)
 * [Spain](/posts/2014/06/15/Spain.html)
 * [Sweden](/posts/2014/06/05/Sweden.html)
 * [Switzerland](/posts/2014/05/14/Switzerland.html)
-* Transnistria
+* [Transnistria](/posts/2014/10/04/Transnistria.html)
 * [Turkey](/posts/2014/03/22/Turkey.html)
 * [Ukraine](/posts/2014/06/25/Ukraine.html)
 * [United Kingdom](/posts/2014/06/13/United-Kingdom.html)
@@ -249,7 +249,7 @@ Also interesting to note what determines a "continent". The term is broadly defi
 * [Micronesia](/posts/2014/05/03/Micronesia.html)
 * [Nauru](/posts/2014/05/06/Nauru.html)
 * [New Zealand](/posts/2014/05/05/New-Zealand.html)
-* Niue
+* [Niue](/posts/2014/10/06/Niue.html)
 * [Palau](/posts/2014/05/04/Palau.html)
 * [Papua New Guinea](/posts/2014/04/29/Papua-New-Guinea.html)
 * [Samoa](/posts/2014/05/10/Samoa.html)
